@@ -1,0 +1,1 @@
+Copy-Item –Path c:\Explorer-9-for-Windows-Server-2008-KB4522007.msu –Destination 'c:\' –ToSession (New-PSSession –ComputerName DKSDWW63) 
